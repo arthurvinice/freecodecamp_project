@@ -1,0 +1,1 @@
+O objetivo deste projeto era: construir um site funcionalmente semelhante a https://tribute-page.freecodecamp.rocks || The goal of this project was: build a website functionally similar to https://tribute-page.freecodecamp.rocks
